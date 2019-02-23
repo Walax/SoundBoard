@@ -57,12 +57,12 @@
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1000, 800);
+            //this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             //this.Controls.Add(this.label1);
             //this.Controls.Add(this.buttonExit);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.ClientSize = new System.Drawing.Size(1024, 768);
+            this.Name = "SoundBoard";
+            this.Text = "SoundBoard";
             this.ResumeLayout(false);
 
         }

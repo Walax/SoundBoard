@@ -23,8 +23,7 @@ namespace SoundBoard
             
             manager = new SoundBoardManager("config.json");
             buttonLayout();
-                 
-           
+            InitializeComponent();
         }
 
         private void buttonExit_Click(object sender, EventArgs e)
@@ -34,19 +33,7 @@ namespace SoundBoard
 
         private void buttonLayout()
         {
-            manager.Elements = new Models.SoundBoardObject[2];
-            manager.Elements[0] =
-                new Models.SoundBoardObject
-                {
-                    Mp3File = new Uri(AssemblyDirectory + @"\JpenseTaChierDansTesCulotes.wav"),
-                    Name = "TaChier"
-                };
-            manager.Elements[1] =
-               new Models.SoundBoardObject
-               {
-                   Mp3File = new Uri(AssemblyDirectory + @"\unpeuoui.wav"),
-                   Name=  "unPeuOui"
-               };
+
 
             this.Controls.AddRange(manager.ExtractButton());
         }

@@ -31,7 +31,7 @@ namespace SoundBoard.Repo
             {
                 Button button = new Button();
                 button.Dock = System.Windows.Forms.DockStyle.Bottom;
-                button.Location = new System.Drawing.Point(i+1*100,20);
+                button.Location = new System.Drawing.Point(0, i * 100);
                 button.Name = Elements[i].Name;
                 button.Size = new System.Drawing.Size(100, 100);
                 button.TabIndex = i;

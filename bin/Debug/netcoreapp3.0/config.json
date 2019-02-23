@@ -1,1 +1,30 @@
-[{"Mp3File":"C:\\DEV\\SoundBoard\\bin\\Debug\\netcoreapp3.0\\JpenseTaChierDansTesCulotes.wav","Thumbnail":null,"Name":"TaChier"},{"Mp3File":"C:\\DEV\\SoundBoard\\bin\\Debug\\netcoreapp3.0\\unpeuoui.wav","Thumbnail":null,"Name":"unPeuOui"}]
+[  
+   {  
+      "Mp3File":"C:\\DEV\\SoundBoard\\bin\\Debug\\netcoreapp3.0\\JpenseTaChierDansTesCulotes.wav",
+      "Thumbnail":null,
+      "Name":"TaChier"
+   },
+   {  
+      "Mp3File":"C:\\DEV\\SoundBoard\\bin\\Debug\\netcoreapp3.0\\unpeuoui.wav",
+      "Thumbnail":null,
+      "Name":"unPeuOui"
+   }
+,
+   {  
+      "Mp3File":"C:\\DEV\\SoundBoard\\bin\\Debug\\netcoreapp3.0\\leptibum.wav",
+      "Thumbnail":null,
+      "Name":"Le pti bum"
+   }
+,
+   {  
+      "Mp3File":"C:\\DEV\\SoundBoard\\bin\\Debug\\netcoreapp3.0\\nonclui.wav",
+      "Thumbnail":null,
+      "Name":"Non c'est lui"
+   }
+,
+   {  
+      "Mp3File":"C:\\DEV\\SoundBoard\\bin\\Debug\\netcoreapp3.0\\ptibaveu.wav",
+      "Thumbnail":null,
+      "Name":"Pti baveu"
+   }
+]
