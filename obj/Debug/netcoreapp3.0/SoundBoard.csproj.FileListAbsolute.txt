@@ -5,7 +5,6 @@ C:\DEV\SoundBoard\bin\Debug\netcoreapp3.0\SoundBoard.runtimeconfig.dev.json
 C:\DEV\SoundBoard\bin\Debug\netcoreapp3.0\SoundBoard.dll
 C:\DEV\SoundBoard\bin\Debug\netcoreapp3.0\SoundBoard.pdb
 C:\DEV\SoundBoard\obj\Debug\netcoreapp3.0\SoundBoard.csprojAssemblyReference.cache
-C:\DEV\SoundBoard\obj\Debug\netcoreapp3.0\SoundBoard.Form1.resources
 C:\DEV\SoundBoard\obj\Debug\netcoreapp3.0\SoundBoard.csproj.GenerateResource.cache
 C:\DEV\SoundBoard\obj\Debug\netcoreapp3.0\SoundBoard.csproj.CoreCompileInputs.cache
 C:\DEV\SoundBoard\obj\Debug\netcoreapp3.0\SoundBoard.AssemblyInfoInputs.cache
@@ -14,3 +13,4 @@ C:\DEV\SoundBoard\obj\Debug\netcoreapp3.0\SoundBoard.dll
 C:\DEV\SoundBoard\obj\Debug\netcoreapp3.0\SoundBoard.pdb
 C:\DEV\SoundBoard\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
 C:\DEV\SoundBoard\obj\Debug\netcoreapp3.0\SoundBoard.csproj.CopyComplete
+C:\DEV\SoundBoard\obj\Debug\netcoreapp3.0\SoundBoard.Forms.Form1.resources
