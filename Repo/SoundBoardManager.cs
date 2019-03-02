@@ -88,7 +88,7 @@ namespace SoundBoard.Repo
 
         public void SaveSoundBoardConfig()
         {
-            File.WriteAllText(@"config.json",JsonConvert.SerializeObject(Elements));
+            File.WriteAllText(@"config.json",JsonConvert.SerializeObject(Elements, Formatting.Indented));
         }
 
     }

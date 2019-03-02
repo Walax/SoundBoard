@@ -24,6 +24,7 @@ namespace SoundBoard.Models
         public Uri Mp3File { get; set; }
         public Image Thumbnail { get;set;}
         public string Name { get; set; }
+        public double Volume { get; set; }
         public void OpenSound()
         {
             mp3Player.Open(Mp3File);
@@ -31,6 +32,7 @@ namespace SoundBoard.Models
         public void PlaySound()
         {
             mp3Player.Open(Mp3File);
+            mp3Player.Volume = Volume == 0 ? 0.5 : Volume;
             mp3Player.Play();
         }
         public void StopSound()
